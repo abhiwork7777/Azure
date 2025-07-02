@@ -1,0 +1,10 @@
+resource_group_name = "aks-resource-group"
+//location            = "eastus"
+//aks_cluster_name    = "example-aks-cluster"
+node_pool_name = "nodepool1"
+//node_count     = 1
+//min_count      = 1
+//max_count      = 1
+vm_size        = "Standard_B2s"
+vnet_name    = "aks-vnet"
+subnet_name  = "aks-subnet"
