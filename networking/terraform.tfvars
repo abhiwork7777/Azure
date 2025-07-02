@@ -1,0 +1,8 @@
+//resource_group_name   = "rg-networking-demo"
+//vnet_name             = "devops-vnet"
+vnet_address_space    = "10.0.0.0/16"
+public_subnet_name    = "public-subnet"
+public_subnet_cidr    = "10.0.1.0/24"
+private_subnet_name   = "private-subnet"
+private_subnet_cidr   = "10.0.2.0/24"
+//location              = "East US"
